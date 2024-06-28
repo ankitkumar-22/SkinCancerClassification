@@ -1,0 +1,12 @@
+# The Links for the datset used in the program are :
+
+## Training images
+https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_Input.zip
+### The ground truth for training
+https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Training_GroundTruth.csv
+
+## Test Images
+https://isic-challenge-data.s3.amazonaws.com/2019/ISIC_2019_Test_Input.zip
+
+## Link to the actual challenge
+https://challenge.isic-archive.com/landing/2019/
